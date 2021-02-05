@@ -1,0 +1,22 @@
+{
+  "name": "aktionariat-contracts",
+  "version": "1.0.0",
+  "description": "The public repository for all smart contracts used by Aktionariat.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aktionariat/contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aktionariat/contracts/issues"
+  },
+  "homepage": "https://github.com/aktionariat/contracts#readme"
+}
