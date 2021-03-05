@@ -4,7 +4,7 @@ Documentation for the token recovery mechanism implemented in [ERC20Recoverable.
 
 ## Motivation
 
-It is desirable that share tokens (which legally represent the company’s equity) do not get ‘lost’ if a shareholder loses the private key to their account or accidentally sends them to an invalid address. While some issuers address this by adding a back-door to their smart contract, giving them full control over all tokens, we prefer following a decentralized approach. This is also what the Swiss Blockchain Federation recommends in their [Security Token Circular](http://blockchainfederation.ch/wp-content/uploads/2019/12/SBF-Circular-2019-01-Tokenized-Equity-4.pdf). Our decentralized approach allows holders to reclaim their shares without having to rely on a centralized authority.
+It is desirable that share tokens (which legally represent the company’s equity) do not get ‘lost’ if a shareholder loses the private key to their account or accidentally sends them to an invalid address. While some issuers of blockchain securities address this by adding a back-door to their smart contract, giving them full control over all tokens, we prefer following a decentralized approach. This is also what the Swiss Blockchain Federation recommends in their [Security Token Circular](http://blockchainfederation.ch/wp-content/uploads/2019/12/SBF-Circular-2019-01-Tokenized-Equity-4.pdf). Our decentralized approach allows holders to reclaim their shares without having to rely on a centralized authority.
 
 ## Process
 
